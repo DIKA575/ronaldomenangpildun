@@ -2,6 +2,7 @@ body {
     bbackground-color: #819e5e;
     font-family: Arial, sans-serif;
     color: #4b6347; /* warna teks utama */
+    text-align: center; /* menengahkan semua teks di dalam kartu */
 }
 
 .kartu profil {
@@ -11,7 +12,6 @@ body {
   background-color: black;
   border-radius: 15px; /*membuat sudut menjadi melengkung */
   box-shadow: 0 4px 8px rgba(o,o,o,o,1); /* efek bayangan */
-  text-align: center; /* menengahkan semua teks di dalam kartu */
 }
 
 
