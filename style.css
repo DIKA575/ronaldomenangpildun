@@ -6,7 +6,7 @@ body {
 }
 
 .kartu-profil {
-  width: 300px;
+  width: 500px;
   margin: 150px auto; /* 50px jarak atas/bawah, auto menegahkan kiri/kanan */
   paddiing: 20px;
   background-color: violet;
