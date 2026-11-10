@@ -1,0 +1,24 @@
+body {
+    bbackground-color: #819e5e;
+    font-family: Arial, sans-serif;
+    color: #191970; /* warna teks utama */
+}
+
+.kartu profil {
+  width: 300px;
+  margin: 50px auto; /* 50px jarak atas/bawah, auto menegahkan kiri/kanan */
+  paddiing: 20px;
+  background-color: white;
+  border-radius: 15px; /*membuat sudut menjadi melengkung */
+  box-shadow: 0 4px 8px rgba(o,o,o,o,1); /* efek bayangan */
+}
+
+
+.kartu-profil img {
+  width: 150px;
+  border-radius: 50%; /* trik unuk membuat gambar persegi menjadi lingkaran sempurna */
+}
+.kartu-profil {
+width: 150px;
+text-align: center; /* menengahkan semua teks di dalam kartu */
+}
