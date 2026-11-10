@@ -11,6 +11,7 @@ body {
   background-color: black;
   border-radius: 15px; /*membuat sudut menjadi melengkung */
   box-shadow: 0 4px 8px rgba(o,o,o,o,1); /* efek bayangan */
+  text-align: center; /* menengahkan semua teks di dalam kartu */
 }
 
 
@@ -20,5 +21,4 @@ body {
 }
 .kartu-profil {
 width: 150px;
-text-align: center; /* menengahkan semua teks di dalam kartu */
 }
