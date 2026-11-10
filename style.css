@@ -2,6 +2,7 @@ body {
     bbackground-color: #819e5e;
     font-family: Arial, sans-serif;
     color: #4b6347; /* warna teks utama */
+    text-align: center; /* menengahkan semua teks di dalam kartu */
 }
 
 .kartu-profil {
@@ -20,5 +21,4 @@ body {
 }
 .kartu-profil {
 width: 150px;
-text-align: center; /* menengahkan semua teks di dalam kartu */
 }
